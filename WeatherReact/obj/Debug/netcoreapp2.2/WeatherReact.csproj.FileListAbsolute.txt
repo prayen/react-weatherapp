@@ -1,0 +1,14 @@
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\bin\Debug\netcoreapp2.2\WeatherReact.deps.json
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\bin\Debug\netcoreapp2.2\WeatherReact.runtimeconfig.json
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\bin\Debug\netcoreapp2.2\WeatherReact.runtimeconfig.dev.json
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\bin\Debug\netcoreapp2.2\WeatherReact.dll
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\bin\Debug\netcoreapp2.2\WeatherReact.pdb
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.csprojAssemblyReference.cache
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.csproj.CoreCompileInputs.cache
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.RazorAssemblyInfo.cache
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.RazorAssemblyInfo.cs
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.AssemblyInfoInputs.cache
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.AssemblyInfo.cs
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.RazorTargetAssemblyInfo.cache
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.dll
+C:\Users\prayen.shrestha\Desktop\SideProject\WeatherReact\WeatherReact\obj\Debug\netcoreapp2.2\WeatherReact.pdb
